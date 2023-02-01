@@ -12,7 +12,7 @@ public class Main {
 
             Company dalia = new Company();
             dalia.setFirstname("savtasdhli");
-            dalia.setAddress("atunasss");
+            dalia.setAddress("atunassss");
             dalia.setAge(192);
             dalia.setNumber(054-20200530);
             dalia.setSalary(137020);
