@@ -11,7 +11,7 @@ public class Main {
             transaction.begin();
 
             Company dalia = new Company();
-            dalia.setFirstname("savtashli");
+            dalia.setFirstname("savtasdhli");
             dalia.setAddress("atunasss");
             dalia.setAge(192);
             dalia.setNumber(054-20200530);
